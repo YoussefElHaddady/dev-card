@@ -1,0 +1,23 @@
+{
+  "name": "dev-card",
+  "version": "1.0.0",
+  "description": "A fun CLI to generate and publish a dev business card",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev",
+    "developer",
+    "business",
+    "card",
+    "npm",
+    "npmjs",
+    "package"
+  ],
+  "author": "Youssef EL HADDADY",
+  "license": "MIT"
+}
